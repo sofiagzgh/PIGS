@@ -12,17 +12,17 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
         left: 1%;
-        top: 600px;
+        top: 570px;
     }
 }
 @media (max-width: 575px){
     #fotodeperfil{
         position: absolute;
-        width: 37%;
+        width: 50%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.39);
-        left: 33%;
-        top: 630px;
+        left: 25%;
+        top: 945px;
     }
 }
 #nombre{
