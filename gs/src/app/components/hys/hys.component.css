@@ -1,4 +1,6 @@
 .row{
-    background-color: rgba(100, 148, 237, 0.801);
     padding: 20px;
+}
+div{
+    background: rgba(100, 148, 237, 0.801);
 }

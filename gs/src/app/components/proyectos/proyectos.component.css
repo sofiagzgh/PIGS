@@ -1,14 +1,17 @@
 .row{
     padding: 20px;
-    background-color: rgba(100, 148, 237, 0.801);
+    background: rgba(100, 148, 237, 0.801);
 }
+
 .contenedor{
     width: auto;
+    background: rgba(100, 148, 237, 0.801);
 }
 .parte1, .parte2{
     display: inline-block;
     text-align: justify;
 }
 .img-proyecto{
-    box-shadow: 10px 10px 30px black;
+    box-shadow: 10px 10px 17px 0px #000000b5;
+    margin: 20px 0;
 }
