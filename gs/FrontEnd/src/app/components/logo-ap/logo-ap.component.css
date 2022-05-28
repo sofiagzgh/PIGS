@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-shadow: inset 0px 20px 20px 0px #000000;
 }
 #logoAP{
     width: 150px;
@@ -16,8 +17,8 @@ img{
     transition: 0.5s;
     background-size: 200% auto;
     color: white;
-    box-shadow: 0 0 9px 1px white;
-    border-radius: 8px;
+    box-shadow: inset 0 0 5px 1px black, 0 0 9px 1px white;
+    border-radius: 20px;
     background-image: linear-gradient(to right, #5146d1 0%, #0000009e 51%, #4ba9ef 100%);
 }
 .btn:hover {

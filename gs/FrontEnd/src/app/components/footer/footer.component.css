@@ -1,5 +1,5 @@
 .row{
-    background-color: rgba(100, 148, 237, 0.801);
+    background-color: rgb(6 0 26);
 }
 footer{
     color: whitesmoke;
@@ -7,7 +7,7 @@ footer{
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 2px -2px 12px 0px #ffffff7a;
+    box-shadow: inset 0px -20px 20px 20px #000000, 2px -2px 12px 0px #06001a;
 }
 p{
     margin-top: 10px;
