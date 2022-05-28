@@ -18,7 +18,7 @@ img{
     color: white;
     box-shadow: 0 0 9px 1px white;
     border-radius: 8px;
-    background-image: linear-gradient(to right, #5146d1 0%, #ffffff9e 51%, #4ba9ef 100%);
+    background-image: linear-gradient(to right, #5146d1 0%, #0000009e 51%, #4ba9ef 100%);
 }
 .btn:hover {
     background-position: right center;
