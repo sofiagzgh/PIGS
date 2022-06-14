@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    font-family: 'Comfortaa', cursive;
+}
+
+h1{
+    font-weight: 700;
+    /*background: -webkit-linear-gradient(90deg,#39e1fe 25%,#5146d1 50%,#3e14c0 70%,#06001a 94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;*/
+}

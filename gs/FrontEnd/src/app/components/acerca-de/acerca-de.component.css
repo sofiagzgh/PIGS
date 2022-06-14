@@ -5,55 +5,57 @@ div{
     background-color: rgb(57 225 254);
     text-align: center;
 }
-@media (min-width: 1200px){
+#fotodeperfil{
+    position: absolute;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
+}
+h1{
+    background: -webkit-linear-gradient(90deg,#39e1fe 25%,#5146d1 50%,#3e14c0 70%,#06001a 94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@media (min-width:1400px){
     #fotodeperfil{
-        position: absolute;
-        width: 19%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
+        width: 18%;
         left: 5%;
-        top: 550px;
+        top: 360px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    #fotodeperfil{
+        width: 22%;
+        left: 3%;
+        top: 360px;
     } 
 
 }
 @media (min-width:992px) and (max-width: 1199.98px){
     #fotodeperfil{
-        position: absolute;
         width: 22%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
         left: 4%;
-        top: 583px;
+        top: 407px;
     } 
 }
 @media (min-width: 768px) and (max-width: 991.98px){
     #fotodeperfil{
-        position: absolute;
         width: 25%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
         left: 12%;
-        top: 542px;
+        top: 305px;
     }    
 }
 @media (min-width: 576px) and (max-width: 767.98px){
     #fotodeperfil{
-        position: absolute;
         width: 29%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
-        left: 11%;
-        top: 550px;
+        left: 12%;
+        top: 308px;
     }
 }
 @media (max-width: 575.98px){
     #fotodeperfil{
-        position: absolute;
         width: 50%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.39);
         left: 25%;
-        top: 634px;
+        top: 400px;
     }
 }
 #nombre{

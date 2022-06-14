@@ -1,5 +1,6 @@
 .row{
-    padding: 20px;
+    padding: 50px 20px;
+    background: linear-gradient(45deg,#39e1fe 25%,#5146d1 50%,#3e14c0 70%,#06001a 94%);
 }
 div{
     background: rgba(100, 148, 237, 0.801);
