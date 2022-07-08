@@ -5,7 +5,22 @@ div{
     background-color: rgb(57 225 254);
     text-align: center;
 }
+<<<<<<< Updated upstream
 @media (min-width: 576px){
+=======
+#fotodeperfil{
+    position: absolute;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.384);
+}
+h1{
+    background: -webkit-linear-gradient(90deg,#39e1fe 15%,#5146d1 50%,#3e14c0 50%,#06001a 94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+}
+@media (min-width:1400px){
+>>>>>>> Stashed changes
     #fotodeperfil{
         position: absolute;
         width: 18%;
