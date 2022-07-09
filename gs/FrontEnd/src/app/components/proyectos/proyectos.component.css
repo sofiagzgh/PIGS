@@ -5,7 +5,7 @@
 
 .contenedor{
     width: auto;
-    background: rgb(255 255 255 / 15%);
+    background: rgba(100, 148, 237, 0.801);
 }
 .parte1, .parte2{
     display: inline-block;
